@@ -1,0 +1,115 @@
+body{
+
+    background-image: url("./pics/bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+.content{
+
+    height: 500px;
+    width: 800px;
+    border-radius: 3cm;
+    background: linear-gradient(180deg, rgba(234, 240, 241, 0.6) 100%,rgba(195, 226, 228, 0.6) 55%);
+    margin-top: 3cm;
+    margin-left:auto;
+    margin-right: auto;
+}
+
+.topic{
+
+    font-size: 2cm;
+    font-weight: bold;
+    color:rgb(3, 3, 5);
+    text-align: center;
+    font-style:oblique;
+    padding-top: 0.5cm;
+
+    
+}
+
+.value{
+
+    text-align: center;
+    font-size: 1.5cm;
+    font-weight: bold;
+    font-style:set;
+    color:rgb(61, 43, 5);
+    padding-top: 1.2cm;
+}
+
+.button-set{
+
+   padding-left: 5cm;
+   padding-top: 1.7cm;
+
+
+
+}
+
+.binc{
+
+    background-color:green;
+    font-size: 1.2cm;
+    border-width: 5px;
+    border-radius: 50%;
+    padding-left: 0.5cm;
+    padding-right: 0.5cm;
+    border-color: rgb(95, 214, 95);
+    color: white;
+    font-weight: bold;
+}
+
+.bdec{
+
+    background-color:red;
+    font-size: 1.2cm;
+    border-width: 5px;
+    border-radius: 50%;
+    padding-left: 0.5cm;
+    padding-right: 0.5cm;
+    border-color:rgb(214, 64, 64);
+    color: white;
+    font-weight: bold;
+}
+
+.bsave{
+
+    background-color:blue;
+    font-size: 1cm;
+    border-width: 5px;
+    
+    padding-left: 0.5cm;
+    padding-right: 0.5cm;
+    border-color:rgb(65, 65, 148) ;
+    color: white;
+    font-weight: bold;
+}
+
+.bshow{
+
+    background-color:orangered;
+    font-size: 1cm;
+    border-width: 5px;
+    
+    padding-left: 0.5cm;
+    padding-right: 0.5cm;
+    border-color:rgb(204, 89, 47) ;
+    color: white;
+    font-weight: bold;
+}
+
+.bcl{
+
+    background-color:rgb(139, 139, 20);
+    font-size: 1cm;
+    border-width: 5px;
+    
+    padding-left: 0.5cm;
+    padding-right: 0.5cm;
+    border-color:rgb(247, 247, 77) ;
+    color: white;
+    font-weight: bold;
+}
