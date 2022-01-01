@@ -8,4 +8,4 @@ a simple web application to count the number of people entered to a particular p
 
 <br>
 
-<a href='https://wijesooriyahd.github.io/a-simple-web-app/' >click here  to visit the web page</a>
+
